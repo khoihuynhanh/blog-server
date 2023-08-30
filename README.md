@@ -7,8 +7,8 @@ npm i json-server
 
 ## 2. package.json
 ```
+"main": "server.js",
 "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
 ```
